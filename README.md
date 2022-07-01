@@ -1,7 +1,6 @@
 ### Hi there, Sergio Donosevich @here 👋
 
-I'm an experienced Network and Security Engineer with over 20 years of experience. 
-I like challenges and learning about new technologies and skills and I'm passionate about cybersecurity and networking.
+Experienced Network and Security Engineer with over 22 years accomplished in the field. I enjoy challenges and learning about recent technologies and skills. Passionate about Cybersecurity, Networking, Python, Cloud, automation. 
 
 <!--
 **sedon77/sedon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
